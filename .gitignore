@@ -2,5 +2,6 @@
 .idea
 *.log
 tmp/
+*.o
 
 config.h
